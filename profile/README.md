@@ -9,7 +9,7 @@ Well, this is my hobby project that I build in my free time.
 - Able to scale in production
 - Full features like Messenger
 
-![Architecture](https://raw.githubusercontent.com/open-chat-org/open-chat/main/document/open-chat.drawio.png)
+![Architecture](https://raw.githubusercontent.com/open-chat-org/open-chat/main/document/open-chat.drawio.jpg)
 
 ## Contributing
 
